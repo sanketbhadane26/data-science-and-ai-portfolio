@@ -35,7 +35,7 @@ I have organized my work into two main areas:
 
 | Project | Description | Status |
 |---|---|---|
-| [Drug Classification — EDA](./1Project/) | Exploratory Data Analysis of a drug classification dataset containing 200 patient records. Includes data cleaning, statistical analysis, outlier detection, visualization, and feature relationships. | Completed |
+| [Drug Classification — EDA](./1Project_Drug_Eda/) | Exploratory Data Analysis of a drug classification dataset containing 200 patient records. Includes data cleaning, statistical analysis, outlier detection, visualization, and feature relationships. | Completed |
 | SQL Business Analysis | Analyze an e-commerce dataset using SQL to answer business questions and extract insights. | Planned |
 | Machine Learning Projects | Practical implementations of machine learning algorithms and predictive models. | Upcoming |
 
