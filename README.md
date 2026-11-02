@@ -36,18 +36,17 @@ I have organized my work into two main areas:
 | Project | Description | Status |
 |---|---|---|
 | [Drug Classification — EDA](./1Project_Drug_Eda/) | Exploratory Data Analysis of a drug classification dataset containing 200 patient records. Includes data cleaning, statistical analysis, outlier detection, visualization, and feature relationships. | Completed |
-| SQL Business Analysis | Analyze an e-commerce dataset using SQL to answer business questions and extract insights. | Planned |
+| SQL Business Analysis | Analyze an e-commerce dataset using SQL to answer business questions and extract insights. | Completed |
 | Machine Learning Projects | Practical implementations of machine learning algorithms and predictive models. | Upcoming |
 
 ### 2. Python Development & Practice
 
 | Project | Description |
 |---|---|
-| [Calculator](./calculator/) | A Python-based calculator application. |
-| [Expense Tracker](./Expense_Tracker/) | An application for recording and managing expenses. |
-| [Number Guessing Game](./number_guessing_game/) | A simple interactive number guessing game built using Python. |
-| [Practice Programs](./practice_programs/) | Python exercises and programs for strengthening programming fundamentals. |
-| [Student Marks Manager](./Student_Marks_Manager/) | A student marks management application using Python and PostgreSQL, with CRUD operations and input validation. |
+| [Calculator](./calculator/) | Basic calculator application using Python. |
+| [Expense Tracker](./Expense_Tracker/) | Record, save, load, and analyse expenses. |
+| [Number Guessing Game](./number_guessing_game/) | Interactive number guessing game using Python. |
+| [Student Marks Manager](./Student_Marks_Manager/) | Python program for managing student marks. |
 
 ## Key Learning Areas
 
@@ -78,40 +77,43 @@ My approach to each project is to:
 5. Analyze results and improve the solution.
 6. Document the project and key learnings.
 
+
 ## Repository Structure
 
 ```text
-Python-and-Data-Science-Portfolio/
+data-science-and-ai-portfolio/
 │
-├── 1Project/
+├── 01Project_Drug_Eda/
 │   └── Drug Classification EDA
 │
-├── calculator/
+├── 02-sql-business-analysis/
+│   ├── sql/
+│   ├── results/
+│   ├── images/
+│   └── README.md
 │
 ├── Expense_Tracker/
 │
-├── number_guessing_game/
-│
-├── practice_programs/
-│
 ├── Student_Marks_Manager/
 │
-├── .gitignore
+├── calculator/
+│
+├── number_guessing_game/
 │
 └── README.md
 ```
 
+
+
+
 ## Future Goals
 
-I plan to expand this repository with:
-
-- More Python applications
-- SQL business analysis projects
-- Advanced Exploratory Data Analysis
-- Machine Learning projects using Scikit-learn
-- Deep Learning implementations
-- AI-powered applications
-- End-to-end Data Science projects
+- Build advanced Machine Learning projects.
+- Explore Deep Learning and Neural Networks.
+- Develop end-to-end AI/ML applications.
+- Participate in Kaggle competitions.
+- Contribute to open-source projects.
+- Strengthen DSA and problem-solving skills.
 
 ## Connect With Me
 
