@@ -2,7 +2,7 @@
 
 A Python console-based Student Marks Manager built using **Python and PostgreSQL**.
 
-The project allows users to add, view, search, update, delete, and analyze student records through a menu-driven interface.
+The project allows users to add, view, search, update, delete, and analyze student records through a menu-driven interface
 
 The project is organized into multiple Python modules to make the code easier to understand, maintain, and extend.
 
