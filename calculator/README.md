@@ -28,7 +28,7 @@ A simple calculator program built with Python as part of my Python learning road
 1. Make sure Python is installed.
 2. Clone this repository.
 3. Open the project folder.
-4. Run:
+4. Run
 
 ```bash
 python calculator.py
