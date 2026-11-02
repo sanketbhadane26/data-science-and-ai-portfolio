@@ -62,7 +62,7 @@ Expenses are saved in a text file:
 
 expenses.txt
 
-Each expense is stored in a readable format:
+Each expense is stored in a readable format
 
 Lunch | 150.0 | 26-08-2026 | Food
 Bus | 40.0 | 26-08-2026 | Travel
