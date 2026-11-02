@@ -180,7 +180,7 @@ These are logical relationships based on matching columns. Physical foreign-key 
 
 The detailed findings, query results and business interpretations are documented separately.
 
-See **[Business Insights](results/business_insights.md)**.
+See **[Business Insights](Results/business_insights.md)**.
 
 ## Conclusion
 
