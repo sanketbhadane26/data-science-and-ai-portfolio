@@ -8,7 +8,7 @@ The objective is to understand the dataset's structure, identify data quality is
 
 **Project type:** Exploratory Data Analysis (EDA)  
 **Dataset size:** 200 observations × 6 columns  
-**Target variable:** `Drug`
+**Target variable:** `Drug`.
 
 ---
 
