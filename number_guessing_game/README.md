@@ -12,7 +12,7 @@ The computer generates a random number between 1 and 100, and the player keeps g
 - Input validation
 - Attempt counter
 - Replay option
-- Handles invalid numbers outside the range
+- Handles invalid numbers outside the range.
 
 ## Concepts Practiced
 
