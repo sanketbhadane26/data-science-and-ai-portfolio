@@ -39,7 +39,7 @@ I have organized my work into two main areas:
 | [SQL Business Analysis](./02-sql-business-analysis) | Analyze an e-commerce dataset using SQL to answer business questions and extract insights. | Completed |
 | Machine Learning Projects | Practical implementations of machine learning algorithms and predictive models. | Upcoming |
 
-### 2. Python Development & Practice
+### 2. Python Applications & Programming
 
 | Project | Description |
 |---|---|
