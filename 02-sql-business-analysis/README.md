@@ -115,7 +115,7 @@ The tables are logically connected through common columns.
 
 **Orders and Order Items:** Joining using `order_id` helps identify the products purchased in each order and calculate order-level sales.
 
-**Orders and Payments:** Joining using `order_id` connects order information with payment records.
+**Orders and Payments:** Joining using `order_id` connects order information with payment records
 
 **Order Items and Products:** Joining using `product_id` connects purchased items with their product categories and details.
 
