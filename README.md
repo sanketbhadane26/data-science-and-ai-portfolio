@@ -118,10 +118,8 @@ data-science-and-ai-portfolio/
 ## Connect With Me
 
 I am continuously learning, experimenting, and improving my skills in Python, Data Science, Machine Learning, and AI.
-
-- **GitHub:** [My GitHub Profile](https://github.com/sanketbhadane26)
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sanketbhadane/)
-- **Email:** (sanketbhadane12@gmail.com)
+- **Email:** sanketbhadane12@gmail.com
 ---
 
 *This repository represents my ongoing learning journey — from Python fundamentals to Data Science and AI engineering. More projects, experiments, and improvements will be added as I progress.*
