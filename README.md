@@ -118,7 +118,7 @@ data-science-and-ai-portfolio/
 ## Connect With Me
 
 I am continuously learning, experimenting, and improving my skills in Python, Data Science, Machine Learning, and AI.
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sanketbhadane/)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sanketbhadane26/)
 - **Email:** sanketbhadane12@gmail.com
 ---
 
