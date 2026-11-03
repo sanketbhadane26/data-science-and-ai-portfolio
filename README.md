@@ -120,7 +120,7 @@ data-science-and-ai-portfolio/
 I am continuously learning, experimenting, and improving my skills in Python, Data Science, Machine Learning, and AI.
 
 - **GitHub:** [My GitHub Profile](https://github.com/sanketbhadane26)
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sanket-bhadane-145349346/)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sanketbhadane/)
 
 ---
 
